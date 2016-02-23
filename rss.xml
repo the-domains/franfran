@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[franfran]]></title>
         <description><![CDATA[franfran]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/franfran/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 16:18:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 23 Feb 2016 03:10:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/franfran/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[24 Great Passive Income Ideas]]></title>
+            <description><![CDATA[<article><h1>24 Great Passive Income Ideas</h1><p>In the world of wealth accumulation, there's nothing quite so coveted as passive income. Those of us wanting to live and work outside the box and do something over and above our 9-to-5 (or leave our 9-to-5 altogether) dream of a life where passive income streams can fund our expenses and leave us with hours of free time to do the things that we love and be with the people we like being with.</p><img src="http://cdn1.wellkeptwallet.com/wp-content/uploads/2015/06/24-Great-Passive-Income-Ideas.jpg"></article>]]></description>
+            <link>http://www.wellkeptwallet.com/2015/06/24-great-passive-income-ideas/</link>
+            <guid isPermaLink="false">9360afbe-7201-4a85-8780-08c42bb2decd</guid>
+            <pubDate>Tue, 23 Feb 2016 03:10:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blue Light]]></title>
             <description><![CDATA[<article><h1>Blue Light</h1><p>How often do you get a good night's sleep? If the answer is anything less than "Always", then you might want to consider the impact your gadgets are having on your nightly slumber. While it's common for many of us to unwind in the evening reading eBooks, watching Netflix or catching up on Facebook on...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2af82efbe1e306ff9d57e3ee9ba5e91402dec03b.jpg"></article>]]></description>
-            <link>undefinedblue-light/index.html</link>
+            <link>https://thegrid.ai/franfran/blue-light/index.html</link>
             <guid isPermaLink="false">89e15b0f-e3af-435d-859d-25bf267320ee</guid>
             <pubDate>Wed, 17 Feb 2016 16:18:39 GMT</pubDate>
         </item>
